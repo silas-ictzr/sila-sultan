@@ -8,8 +8,7 @@
 - 🔭 I’m currently student Ahi Evran University  
   
 
-- 🌱 I’m currently learning Machine Learning  
-  
+- 🌱 I’m currently learning Artificial Intelligence
 
 - ❓ Ask me about everything  
   
